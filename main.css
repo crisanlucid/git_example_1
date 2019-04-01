@@ -1,0 +1,8 @@
+body {
+ background: red;
+}
+
+.wrapper {
+    border: 1px solid black;
+    background: red;
+}
